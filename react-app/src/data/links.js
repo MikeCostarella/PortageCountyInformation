@@ -42,4 +42,5 @@ export const LINKS = [
   // ---------- News & Media ----------
   { name: "The Portager", category: "News & Media", subcategory: "Newspaper", url: "https://theportager.com/", description: "Locally owned news source covering Portage County communities." },
   { name: "Record-Courier", category: "News & Media", subcategory: "Newspaper", url: "http://www.recordpub.com/", description: "Daily newspaper based in Ravenna covering Portage County news." },
+  { name: "The Review Newspapers", category: "News & Media", subcategory: "Newspaper", url: "https://www.thereviewnewspapers.com/", description: "Regional weekly serving parts of Portage, Columbiana, and Geauga counties." },
 ];
