@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Beacon (Schneider Geospatial)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Portage County Ohio", category: "Government", subcategory: "County", url: "https://www.portagecounty-oh.gov/", description: "Official Portage County government website with departments and offices." },
